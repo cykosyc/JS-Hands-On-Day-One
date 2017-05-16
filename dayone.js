@@ -13,3 +13,5 @@ function getGrade(){
     document.getElementById("letterGrade").innerHTML = "F";
   }
 }
+
+/* MENTOR: write a function that includes an event listener for the submit button */
